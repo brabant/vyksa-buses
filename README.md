@@ -1,6 +1,7 @@
 # Расписание движения общественного транспорта города Выкса
-- [Расписания в формате MarkDown](https://github.com/brabant/vyksa-buses/blob/main/buses.md)
-- [Расписание в формате PDF](https://github.com/brabant/vyksa-buses/blob/main/buses.pdf)
+- [Расписание полное в формате MarkDown](https://github.com/brabant/vyksa-buses/blob/main/buses.md)
+- [Расписание городских маршрутов в формате PDF](https://github.com/brabant/vyksa-buses/blob/main/Raspisanie_s_09_09_21_poslednie_dopolnenia.pdf)
+- [Расписание пригородных маршрутов в формате PDF](https://github.com/brabant/vyksa-buses/blob/main/PRIGOROD_I_MEZhGOROD_01_09_2021.pdf)
 - [Интерактивная карта движения автобусов](https://vyksaplus.ru/raspisanie-avtobusov/)
 
 Приложение с расписанием
